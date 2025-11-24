@@ -1,0 +1,112 @@
+PODS:
+  - contacts_service (0.2.2):
+    - Flutter
+  - device_info_plus (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - flutter_contacts (0.0.1):
+    - Flutter
+  - flutter_foreground_task (0.0.1):
+    - Flutter
+  - flutter_local_notifications (0.0.1):
+    - Flutter
+  - flutter_webrtc (1.2.0):
+    - Flutter
+    - WebRTC-SDK (= 137.7151.04)
+  - nfc_manager (0.0.1):
+    - Flutter
+  - objective_c (0.0.1):
+    - Flutter
+  - permission_handler_apple (9.3.0):
+    - Flutter
+  - Protobuf (3.29.5)
+  - reactive_ble_mobile (0.0.1):
+    - Flutter
+    - FlutterMacOS
+    - Protobuf (~> 3.5)
+    - SwiftProtobuf (~> 1.0)
+  - shared_preferences_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - sqflite_darwin (0.0.4):
+    - Flutter
+    - FlutterMacOS
+  - SwiftProtobuf (1.33.3)
+  - WebRTC-SDK (137.7151.04)
+  - workmanager_apple (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - contacts_service (from `.symlinks/plugins/contacts_service/ios`)
+  - device_info_plus (from `.symlinks/plugins/device_info_plus/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_contacts (from `.symlinks/plugins/flutter_contacts/ios`)
+  - flutter_foreground_task (from `.symlinks/plugins/flutter_foreground_task/ios`)
+  - flutter_local_notifications (from `.symlinks/plugins/flutter_local_notifications/ios`)
+  - flutter_webrtc (from `.symlinks/plugins/flutter_webrtc/ios`)
+  - nfc_manager (from `.symlinks/plugins/nfc_manager/ios`)
+  - objective_c (from `.symlinks/plugins/objective_c/ios`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+  - reactive_ble_mobile (from `.symlinks/plugins/reactive_ble_mobile/darwin`)
+  - shared_preferences_foundation (from `.symlinks/plugins/shared_preferences_foundation/darwin`)
+  - sqflite_darwin (from `.symlinks/plugins/sqflite_darwin/darwin`)
+  - workmanager_apple (from `.symlinks/plugins/workmanager_apple/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Protobuf
+    - SwiftProtobuf
+    - WebRTC-SDK
+
+EXTERNAL SOURCES:
+  contacts_service:
+    :path: ".symlinks/plugins/contacts_service/ios"
+  device_info_plus:
+    :path: ".symlinks/plugins/device_info_plus/ios"
+  Flutter:
+    :path: Flutter
+  flutter_contacts:
+    :path: ".symlinks/plugins/flutter_contacts/ios"
+  flutter_foreground_task:
+    :path: ".symlinks/plugins/flutter_foreground_task/ios"
+  flutter_local_notifications:
+    :path: ".symlinks/plugins/flutter_local_notifications/ios"
+  flutter_webrtc:
+    :path: ".symlinks/plugins/flutter_webrtc/ios"
+  nfc_manager:
+    :path: ".symlinks/plugins/nfc_manager/ios"
+  objective_c:
+    :path: ".symlinks/plugins/objective_c/ios"
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+  reactive_ble_mobile:
+    :path: ".symlinks/plugins/reactive_ble_mobile/darwin"
+  shared_preferences_foundation:
+    :path: ".symlinks/plugins/shared_preferences_foundation/darwin"
+  sqflite_darwin:
+    :path: ".symlinks/plugins/sqflite_darwin/darwin"
+  workmanager_apple:
+    :path: ".symlinks/plugins/workmanager_apple/ios"
+
+SPEC CHECKSUMS:
+  contacts_service: 849e1f84281804c8bfbec1b4c3eedcb23c5d3eca
+  device_info_plus: bf2e3232933866d73fe290f2942f2156cdd10342
+  Flutter: cabc95a1d2626b1b06e7179b784ebcf0c0cde467
+  flutter_contacts: edb1c5ce76aa433e20e6cb14c615f4c0b66e0983
+  flutter_foreground_task: 21ef182ab0a29a3005cc72cd70e5f45cb7f7f817
+  flutter_local_notifications: ff50f8405aaa0ccdc7dcfb9022ca192e8ad9688f
+  flutter_webrtc: 2f8c283dc8d16b988cdf8b0a7248b0717829bd78
+  nfc_manager: 9d49960b3c679848c16877766b7fa1f27f180d6b
+  objective_c: 77e887b5ba1827970907e10e832eec1683f3431d
+  permission_handler_apple: 9878588469a2b0d0fc1e048d9f43605f92e6cec2
+  Protobuf: 164aea2ae380c3951abdc3e195220c01d17400e0
+  reactive_ble_mobile: 856183aeda09f2a676bbaecbea8915c3cb1d33df
+  shared_preferences_foundation: 5086985c1d43c5ba4d5e69a4e8083a389e2909e6
+  sqflite_darwin: 5a7236e3b501866c1c9befc6771dfd73ffb8702d
+  SwiftProtobuf: e1b437c8e31a4c5577b643249a0bb62ed4f02153
+  WebRTC-SDK: 40d4f5ba05cadff14e4db5614aec402a633f007e
+  workmanager_apple: 7bac258335c310689a641e2d66e88d4845d372e9
+
+PODFILE CHECKSUM: e30f02f9d1c72c47bb6344a0a748c9d268180865
+
+COCOAPODS: 1.16.2
